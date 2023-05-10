@@ -1,0 +1,30 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "Aula de node e package.json",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "clear && node ./index.js",
+    "serve": "clear && echo 'Hello' && node ./index.js ",
+    "pratical": "node ./pratical.js Brazil",
+    "pratica2": "node ./pratica2.js b",
+    "pratica3": "node ./pratica3.js Neverland Nl ",
+    "pratica4": "node ./pratica4.js Davi 20  "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviAndreozzi/node-package-json-template.git"
+  },
+  "keywords": [
+    "node.js",
+    "package.json"
+  ],
+  "author": "Davi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaviAndreozzi/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/DaviAndreozzi/node-package-json-template#readme"
+}
